@@ -1,0 +1,11 @@
+{
+  "name": "beeper.io.js",
+  "version": "1.0.0",
+  "description": "NodeJS Beeper API - usage: nodejs beeper.io.js -t 'Your message here' ",
+  "main": "beeper.io.js",
+  "dependencies": {
+    "cli.args": "~0.0.7"
+  },
+  "author": "gBence",
+  "license": "MIT"
+}
